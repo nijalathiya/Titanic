@@ -119,8 +119,6 @@ After completing this project, you will understand how to:
 
 **Name:** Nija Lathiya
 
-**Course:** Data Science
-
 **Project:** Titanic Data Preprocessing
 
 ---
